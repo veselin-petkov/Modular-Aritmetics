@@ -1,0 +1,23 @@
+﻿  Functions.cpp
+c:\users\warni\source\repos\modulna\modulna\functions.cpp(32): warning C4018: '<': signed/unsigned mismatch
+c:\users\warni\source\repos\modulna\modulna\functions.cpp(41): warning C4018: '<': signed/unsigned mismatch
+c:\users\warni\source\repos\modulna\modulna\functions.cpp(43): warning C4018: '<': signed/unsigned mismatch
+c:\users\warni\source\repos\modulna\modulna\functions.cpp(53): warning C4018: '<': signed/unsigned mismatch
+c:\users\warni\source\repos\modulna\modulna\functions.cpp(58): warning C4018: '<': signed/unsigned mismatch
+c:\users\warni\source\repos\modulna\modulna\functions.cpp(60): warning C4018: '<': signed/unsigned mismatch
+c:\users\warni\source\repos\modulna\modulna\functions.cpp(70): warning C4018: '<': signed/unsigned mismatch
+c:\users\warni\source\repos\modulna\modulna\functions.cpp(77): warning C4018: '<': signed/unsigned mismatch
+c:\users\warni\source\repos\modulna\modulna\functions.cpp(87): warning C4018: '<': signed/unsigned mismatch
+c:\users\warni\source\repos\modulna\modulna\functions.cpp(89): warning C4018: '<': signed/unsigned mismatch
+c:\users\warni\source\repos\modulna\modulna\functions.cpp(99): warning C4018: '<': signed/unsigned mismatch
+c:\users\warni\source\repos\modulna\modulna\functions.cpp(104): warning C4018: '<': signed/unsigned mismatch
+c:\users\warni\source\repos\modulna\modulna\functions.cpp(106): warning C4018: '<': signed/unsigned mismatch
+c:\users\warni\source\repos\modulna\modulna\functions.cpp(171): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\warni\source\repos\modulna\modulna\functions.cpp(255): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+c:\users\warni\source\repos\modulna\modulna\functions.cpp(266): warning C4244: 'return': conversion from '__int64' to 'int', possible loss of data
+c:\users\warni\source\repos\modulna\modulna\functions.cpp(300): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\warni\source\repos\modulna\modulna\functions.cpp(327): warning C4018: '<': signed/unsigned mismatch
+c:\users\warni\source\repos\modulna\modulna\functions.cpp(331): warning C4018: '<': signed/unsigned mismatch
+c:\users\warni\source\repos\modulna\modulna\functions.cpp(333): warning C4018: '<': signed/unsigned mismatch
+c:\users\warni\source\repos\modulna\modulna\functions.cpp(293): warning C4715: 'Pole': not all control paths return a value
+  Modulna.vcxproj -> C:\Users\warni\source\repos\Modulna\Debug\Modulna.exe
